@@ -7,6 +7,8 @@ authors = ["Quinhones <matheus-quinhones@hotmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 Django = "^4.0.1"
+gunicorn = "^20.1.0"
+whitenoise = "^5.3.0"
 
 [tool.poetry.dev-dependencies]
 
